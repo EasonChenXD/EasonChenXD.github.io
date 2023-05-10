@@ -9,5 +9,6 @@ $\dagger$ indicates equal contribution, and $*$ indicates corresponding authorsh
 ## Journals
 1. **Planar Manipulation
 via Learning Regrasping** <br />Peng Xu$^\dagger$, <u>Zhiyuan Chen$^\dagger$</u>, Jiankun Wang and Max Q.-H. Meng$^*$. <br />
-IEEE Transactions on Automation Science and Engineering(T-ASE) – Under Review. <br />
+<!-- IEEE Transactions on Automation Science and Engineering(T-ASE) – Under Review. <br /> -->
+Under Review. <br />
 [[project](https://sites.google.com/view/pmvlr2022/)] [[paper](https://arxiv.org/pdf/2210.05349.pdf)] [[dataset](https://github.com/EasonChenXD/Planar-Manipulation-via-Learning-Regrasping)]
