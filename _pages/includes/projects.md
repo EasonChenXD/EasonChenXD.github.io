@@ -2,7 +2,7 @@
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/pmvlr2022/"><img src='files/IMG2.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Robotic Manipulation via Learning Regrasping](https://sites.google.com/view/pmvlr2022/)
+[Extrinsic Manipulation on a Support Plane by Learning Regrasping](https://sites.google.com/view/pmvlr2022/)
 ---
 
 <!-- <u>Hanjing Ye</u>, Jieting Zhao, Yaling Pan, Weinan Chen, Li He, Hong Zhang -->
