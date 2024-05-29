@@ -9,5 +9,5 @@ $\dagger$ indicates equal contribution, and $*$ indicates corresponding authorsh
 ## Journals
 1. **Extrinsic Manipulation on a Support Plane by Learning Regrasping** <br />Peng Xu$^\dagger$, <u>Zhiyuan Chen$^\dagger$</u>, Jiankun Wang and Max Q.-H. Meng$^*$. <br />
 <!-- IEEE Transactions on Automation Science and Engineering(T-ASE) – Under Review. <br /> -->
-Under Review. <br />
+IEEE Transactions on Cognitive and Developmental Systems (TCDS), JCR Q2, IF=5. <br />
 [[project](https://sites.google.com/view/pmvlr2022/)] [[paper](https://arxiv.org/pdf/2210.05349.pdf)] [[dataset](https://github.com/EasonChenXD/Planar-Manipulation-via-Learning-Regrasping)]

@@ -9,7 +9,7 @@
 Peng Xu, <u>Zhiyuan Chen</u>, Jiankun Wang and Max Q.-H. Meng
 
 <!-- IEEE Transactions on Automation Science and Engineering(T-ASE) – Under Review. -->
-Under Review. <br />
+IEEE Transactions on Cognitive and Developmental Systems (TCDS), JCR Q2, IF=5. <br />
 [[project](https://sites.google.com/view/pmvlr2022/)] [[paper](https://arxiv.org/pdf/2210.05349.pdf)] [[dataset](https://github.com/EasonChenXD/Planar-Manipulation-via-Learning-Regrasping)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
