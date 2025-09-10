@@ -7,7 +7,9 @@ $\dagger$ indicates equal contribution, and $*$ indicates corresponding authorsh
 3. **Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker.** <br /><u>Hanjing Ye</u>, Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan, Hong Zhang$^*$. <br />**ROBIO 2021**. [[pdf](http://MedlarTea.github.io/files/mwf.pdf)] [[doi](https://doi.org/10.1109/ROBIO54168.2021.9739394)] -->
 
 ## Journals
-1. **Extrinsic Manipulation on a Support Plane by Learning Regrasping** <br />Peng Xu$^\dagger$, <u>Zhiyuan Chen$^\dagger$</u>, Jiankun Wang and Max Q.-H. Meng$^*$. <br />
-<!-- IEEE Transactions on Automation Science and Engineering(T-ASE) – Under Review. <br /> -->
+1. **Closed-Loop Placement Planning for Regrasping and Reconstruction with Single-View RGB-D Images** <br /><u>Zhiyuan Chen</u>, Jianshan Liu, Ronghao Chen and Jiankun Wang$^*$. <br />
+IEEE Transactions on Automation Science and Engineering (T-ASE), JCR Q1, IF=5.9. <br />
+[[paper](https://ieeexplore.ieee.org/document/10955269)]
+2. **Learning to Predict Diverse Stable Placements for Extrinsic Manipulation on a Support Plane** <br />Peng Xu$^\dagger$, <u>Zhiyuan Chen$^\dagger$</u>, Jiankun Wang and Max Q.-H. Meng$^*$. <br />
 IEEE Transactions on Cognitive and Developmental Systems (TCDS), JCR Q2, IF=5. <br />
-[[project](https://sites.google.com/view/pmvlr2022/)] [[paper](https://arxiv.org/pdf/2210.05349.pdf)] [[dataset](https://github.com/EasonChenXD/Planar-Manipulation-via-Learning-Regrasping)]
+[[project](https://sites.google.com/view/pmvlr2022/)] [[paper](https://ieeexplore.ieee.org/document/10313307)] [[dataset](https://github.com/EasonChenXD/Planar-Manipulation-via-Learning-Regrasping)]
